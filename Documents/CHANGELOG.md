@@ -6,3 +6,7 @@
 - Chuẩn bị môi trường
 - Chạy bằng Live Server
 - Chuẩn hóa cấu trúc thư mục
+
+## v0.2 Development
+
+- Khởi tạo nhánh develop
